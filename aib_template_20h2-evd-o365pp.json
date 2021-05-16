@@ -62,7 +62,7 @@
                     {
                         "type": "PowerShell",
                         "name": "Install_FSLogix",
-                        "scriptUri": "aib_script_FsLogix.ps1",
+                        "scriptUri": "https://raw.githubusercontent.com/SvenMattheus/AIB/main/aib_script_FsLogix.ps1",
                         "runElevated": true
                     },
                     {
